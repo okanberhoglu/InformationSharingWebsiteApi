@@ -8,7 +8,7 @@ Integrated Development Environment: Eclipse
 * MySql
 * Lombok
 
-## About Project
+## About The Project
 This project aims that people to publish articles about what they know to inform other people. The project is prepared with layered architecture.
 
 ## Layers
