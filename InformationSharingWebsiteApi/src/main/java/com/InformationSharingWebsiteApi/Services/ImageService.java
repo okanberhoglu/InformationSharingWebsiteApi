@@ -51,6 +51,7 @@ public class ImageService implements IImageService{
 			
 			Path uploadPath = Paths.get(dir);
 			
+			// if there is not a images file, the following if block will create
 			if(!Files.exists(uploadPath)) {
 				Files.createDirectories(uploadPath);
 			}
