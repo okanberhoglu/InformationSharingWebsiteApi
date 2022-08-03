@@ -14,8 +14,7 @@ This project aims that people to publish articles about what they know to inform
 ## Layers
 * **Entities**: 
 <br>This layer is created for database tables. There are four tables: Authors, Readers, Contents, Images. Authors table keeps informations about the authors. Readers table keeps infromations about readers. Reader can not publish articles. Contents table keeps title, content etc. about contents. Images table holds name of the image, id of the content which image belongs etc.
-<br> 
-<br>
+
 * **Repositories**:
 <br> This layer provide connection between the project and the database. 
 
