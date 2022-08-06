@@ -3,9 +3,11 @@
 Integrated Development Environment: Eclipse  
 
 ## Used Technologies
-* Java
+* Java Development Kit (JDK)
 * Spring Boot
-* MySql
+* Spring Data JPA & Hibernate
+* MySQL JDBC driver
+* MySQL database server & Workbench
 * Lombok
 
 ## About The Project
