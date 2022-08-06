@@ -11,7 +11,7 @@ Integrated Development Environment: Eclipse
 * Lombok
 
 ## About The Project
-This project aims that people to publish articles about what they know to inform other people. The project is prepared with layered architecture.
+This project aims that people to publish articles about what they know to inform other people. And this project is just backend, provides RESTful interface. The project is prepared with layered architecture.
 
 ## Layers
 * **Entities**: 
